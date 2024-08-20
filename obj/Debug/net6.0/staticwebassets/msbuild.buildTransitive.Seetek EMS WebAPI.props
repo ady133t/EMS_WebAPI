@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Seetek EMS WebAPI.props" />
+</Project>

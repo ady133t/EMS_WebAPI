@@ -1,0 +1,71 @@
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\SEETEK EMS DB.deps.json
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\SEETEK EMS DB.runtimeconfig.json
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\SEETEK EMS DB.exe
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\appsettings.json
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Seetek EMS WebAPI.exe
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Seetek EMS WebAPI.deps.json
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Seetek EMS WebAPI.runtimeconfig.json
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Seetek EMS WebAPI.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Seetek EMS WebAPI.pdb
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\SEETEK EMS DB.dll
+D:\Source Code\Seetek EMS WebAPI\bin\Debug\net6.0\SEETEK EMS DB.pdb
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.csproj.AssemblyReference.cache
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.AssemblyInfoInputs.cache
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.AssemblyInfo.cs
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.csproj.CoreCompileInputs.cache
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Seetek EMS WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Seetek EMS WebAPI.props
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Seetek EMS WebAPI.props
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Seetek EMS WebAPI.props
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\scopedcss\bundle\Seetek EMS WebAPI.styles.css
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek E.A8DBBED4.Up2Date
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.dll
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\refint\Seetek EMS WebAPI.dll
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.pdb
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\Seetek EMS WebAPI.genruntimeconfig.cache
+D:\Source Code\Seetek EMS WebAPI\obj\Debug\net6.0\ref\Seetek EMS WebAPI.dll

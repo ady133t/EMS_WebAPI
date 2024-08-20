@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ptOpGhOBIkIKZmf4K19T+9TcerfO07f2XsawGhgxRwg=",
+  "Source": "Seetek EMS WebAPI",
+  "BasePath": "_content/Seetek EMS WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
